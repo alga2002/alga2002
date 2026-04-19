@@ -33,8 +33,10 @@ Hi, I'm Aleph! 👋</h1>
   </tr>
 </table>
 <table>
-       
 
+<img src="What I do.png" width="100%" alt="Pixel Corgi at a computer" />
+  
+  
 ## 🧠 What I Do
 
 <img width="42%" align="right" alt="Tools and technologies" src="YOUR-RIGHT-SIDE-IMAGE-OR-LEAVE-FOR-LATER" />
