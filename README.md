@@ -1,61 +1,76 @@
-<h1 align="left">Hi, I'm Aleph Souza! 👋</h1>
+
+Hi, I'm Aleph! 👋</h1>
 
 <p align="left">
   <strong>Data Analyst | Student Success Analytics</strong><br>
-  I turn messy data into meaningful insights that help students thrive.<br>
-  Specializing in <strong>Excel, Power BI, and R</strong> — and growing into
-  <strong>automation, Python, and machine learning</strong>.
+</p>
+
+<p align="left">
+  I turn messy data into insights that help students thrive.
+</p>
+
+<p align="left">
+  Specializing in <strong>Excel, Power BI, and R</strong> (Qualtrics workflows)<br>
+  and always learning more about automation and machine learning.
 </p>
 
 <p align="left">
   <a href="https://github.com/alga2002">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/alephsouza/">
+    <a href="https://www.linkedin.com/in/www.linkedin.com/in/alephsouza/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:alephmosiah@outlook.com">
-    <img src="https://img.shields.io/badge/Email-166534?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-A21CAF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="58%">
-      
-## 🧠 What I Do
-
-- Clean and transform messy survey and institutional data
-- Build dashboards that support decision-making in Student Success
-- Use **R** for Qualtrics workflows and data prep
-- Use **Excel** and **Power BI** to turn analysis into action
-- Improve reporting processes through automation and standardization
-
-## 🎯 What I'm Focused On
-
-- Building end-to-end analytics projects
-- Strengthening Python for data analysis and automation
-- Learning more about machine learning in practical ways
-- Growing from analyst work into broader data science capability
-
-    </td>
-    <td valign="top" width="42%">
-      <img src="YOUR-CAT-GIF-URL-HERE" width="100%" alt="Pixel cat working on a laptop" />
+</td>
+    <td valign="top" width="48%" align="center">
+      <img src="Corgi_Working.png" width="100%" alt="Pixel Corgi at a computer" />
     </td>
   </tr>
 </table>
+<table>
+       
 
----
+## 🧠 What I Do
+
+<img width="42%" align="right" alt="Tools and technologies" src="YOUR-RIGHT-SIDE-IMAGE-OR-LEAVE-FOR-LATER" />
+
+- **🧹 Clean & Transform Data**  
+  Clean Qualtrics survey data in **R** and prepare it for analysis.
+
+- **📊 Build Dashboards**  
+  Create **Power BI** reports that support retention and engagement decisions.
+
+- **⚡ Automate & Improve**  
+  Streamline **Excel** workflows and reduce repetitive reporting work.
+
+<br>
 
 ## 🛠️ Tools & Technologies
 
-### Core Tools
+**Core Tools**  
 <p>
-  <img src="https://img.shields.io/badge/Excel-0F7B0F?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qualtrics-222222?style=for-the-badge&logoColor=white" />
+  <code><img height="42" src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" /></code>
+  <code><img height="42" src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" /></code>
+  <code><img height="42" src="https://cdn.simpleicons.org/r/276DC3" alt="R" /></code>
+  <code><img height="42" src="https://cdn.simpleicons.org/qualtrics/000000" alt="Qualtrics" /></code>
 </p>
+
+**Currently Learning**  
+<p>
+  <code><img height="42" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" /></code>
+  <code><img height="42" src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Machine Learning" /></code>
+</p>
+
+<br clear="right"/>
+
+
+
+
 
 ### Currently Learning
 <p>
